@@ -1,0 +1,6 @@
+usuarios: ["auri", "maria"]
+nombre: juan
+
+equipos: localhost
+puerto: 8080
+D_pub: /var/www/taller.com

@@ -1,0 +1,7 @@
+---
+#  Copiar ficheros a los servidores web
+- hosts: webServers
+  remote_user: auri
+  become: True
+  roles:
+    - role: copiar_saludo

@@ -1,0 +1,5 @@
+---
+# Install nginx
+- include_tasks: task_update.yml
+- include_tasks: task_install.yml
+- include_tasks: task_levantar.yml

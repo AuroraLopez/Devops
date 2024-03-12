@@ -1,0 +1,5 @@
+USUARIO=auri
+PASSWD=1234
+CONTEXT=/home/auri/devops/ProyectosDC
+TZ=Europe/Madrid
+DOMINIO=auri.es

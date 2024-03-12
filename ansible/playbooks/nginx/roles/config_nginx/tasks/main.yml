@@ -1,0 +1,10 @@
+---
+
+- name: copiar nginx.conf.j2
+  template: 
+    src: template/nginx.conf.j2
+#    dest: /etc/nginx
+    dest: /var/www/taller.com/index.html
+    # owner: root
+    # group: root
+    mode: 0644

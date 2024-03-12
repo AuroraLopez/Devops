@@ -1,0 +1,7 @@
+---
+
+# Este role copia un saludo en /home/usuario
+- name: Copiar saludo
+  copy: 
+    src: saludo.txt
+    dest: /home/auri/saludo.txt

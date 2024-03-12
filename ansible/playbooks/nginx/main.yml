@@ -1,0 +1,8 @@
+---
+#Nginx playbook
+- hosts: webServers
+  remote_user: auri
+  become: True
+  roles:
+    - role: nginx_install
+    - role: config_nginx

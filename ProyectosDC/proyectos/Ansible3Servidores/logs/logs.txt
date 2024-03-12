@@ -1,0 +1,13 @@
+auri.es
+servidor3
+auri
+1234
+/home/auri/devops/ProyectosDC
+Usuario creado
+ssh arrancado
+main ejecutada
+tail ejecutado
+Usuario creado
+ssh arrancado
+main ejecutada
+tail ejecutado
